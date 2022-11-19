@@ -1,0 +1,14 @@
+c:\users\mohammadnr\documents\visual studio 2015\Projects\project\project\bin\Debug\project.exe.config
+c:\users\mohammadnr\documents\visual studio 2015\Projects\project\project\bin\Debug\project.exe
+c:\users\mohammadnr\documents\visual studio 2015\Projects\project\project\bin\Debug\project.pdb
+c:\users\mohammadnr\documents\visual studio 2015\Projects\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+c:\users\mohammadnr\documents\visual studio 2015\Projects\project\project\obj\Debug\project.Form1.resources
+c:\users\mohammadnr\documents\visual studio 2015\Projects\project\project\obj\Debug\project.Properties.Resources.resources
+c:\users\mohammadnr\documents\visual studio 2015\Projects\project\project\obj\Debug\project.csproj.GenerateResource.Cache
+c:\users\mohammadnr\documents\visual studio 2015\Projects\project\project\obj\Debug\project.exe
+c:\users\mohammadnr\documents\visual studio 2015\Projects\project\project\obj\Debug\project.pdb
+C:\Users\MohammadNR\Documents\Visual Studio 2015\Projects\project\project\obj\Debug\project.Form2.resources
+C:\Users\MohammadNR\Documents\Visual Studio 2015\Projects\project\project\obj\Debug\project.Form3.resources
+C:\Users\MohammadNR\Documents\Visual Studio 2015\Projects\project\project\obj\Debug\project.Form4.resources
+C:\Users\MohammadNR\Documents\Visual Studio 2015\Projects\project\project\obj\Debug\project.Form5.resources
+C:\Users\MohammadNR\Documents\Visual Studio 2015\Projects\project\project\obj\Debug\project.Form6.resources
